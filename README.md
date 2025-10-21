@@ -1,3 +1,7 @@
 # Batch-repo
 this is my first repository on the git hub account. I am very happy .......
 hi gyus
+# name 
+amit
+# study
+BAC
